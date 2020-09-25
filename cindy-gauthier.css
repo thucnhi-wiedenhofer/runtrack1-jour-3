@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(to bottom, #00ccff -80%, #ff99cc 100%)
+}
+
+.images_home
+{
+    text-align: center;
+}
+
+.images_home
+{
+    border:2px black outset
+}
+
+.images_home
+{
+    border-radius: 60px;
+}
+
+#rondoudou
+{
+    width: 10%;
+    height: 10%;
+}
+
+#bloc_principal
+{
+    display: flex;
+}
+
+#Pikachu
+{
+    width: 20%;
+}
+
+#Pikachu
+{
+    float: inline-start;
+}
+
+#Riven
+{
+    width: 40%;
+    margin-top: 5%;
+}
+
+
+#presentation
+{
+    margin-left: 600px;
+}
+
+h2 
+{
+    margin-left: 150px;
+}
+
+#ui
+{
+    margin-left: 720px;
+}
+
+#Riven
+{
+    margin-left: 155px;
+}

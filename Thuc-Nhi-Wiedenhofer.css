@@ -1,0 +1,67 @@
+.body {
+    width: 700px;
+    margin: auto;
+    
+}
+.page {
+    font-size: 16px;
+    font-family: verdana;
+    background-color: rgb(54, 133, 109,0.5);
+}
+div {
+    display:flex;
+   flex-direction: column;
+}
+h1 {
+    font-family:  Cochin, Georgia, Times;
+    font-size: 50 px;
+    color:rgb(3, 3, 70);
+}
+
+.identité {
+    display:flex;
+    flex-direction:row-reverse;
+    align-items: flex-start; 
+    justify-content: space-around;
+
+}
+#photo {
+    float: right;
+}
+
+#infos {
+    float:left;
+    width:50%;
+}
+
+#loisirs {
+    float:left;
+    width:80%;
+    border:6px grey solid;
+    padding: 6px;
+    margin:6px;
+    border-radius: 7px;
+    box-shadow: tan;
+    background-color:bisque;
+    display: flex;
+    align-content: flex-start;
+}
+#loisirs ul {
+    list-style-type: none;
+}
+
+.sites_préférés {
+    font-style: italic;
+}
+
+.sites_préférés:visited {
+    color: sandybrown; 
+    text-decoration: none;
+    font-style: normal;
+}
+.sites_préférés:hover {
+    color:purple;
+    text-decoration: none ;
+    font-style: normal;
+}
+

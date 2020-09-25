@@ -1,0 +1,22 @@
+body {
+    width: 780px;
+    margin: auto;
+    font-size: 25px;
+    font-family: verdana;
+    background-image: url("images/zen.jpg");
+    height: 400px;    
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+}
+
+a{
+    color:yellowgreen;
+    text-decoration: none;
+}
+a:hover{
+    font-style: italic;
+}
+ul{
+    list-style-type: none;
+}

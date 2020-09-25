@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(to left, #003366 0%, #33ccff 100%);
+    font-family: 'Lobster', cursive;
+    
+
+}
+
+p,li{
+    font-size: 20px;
+}
+
+#banderole{
+    margin-left: 650px;
+    margin-right: 650px;
+    text-align: justify;
+    border: 2px outset;
+    border-radius: 20em;
+    box-shadow: 20px -16px 80px teal;
+    background: linear-gradient(to left, #006699 0%, #66ffff 100%);
+    text-align:center;
+}
+
+#block_principal{
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 10px double;
+    padding: 70px;
+    display:flex;
+    flex-direction: row-reverse;
+    
+}
+
+#invisible{
+    padding-left:100px;
+
+}
+
+h2{ 
+    text-decoration: underline;
+}
+#texte{
+padding-right: 700px;
+}
+
+#photo > img{
+    opacity: 70%;
+    border: 2px inset;
+    border-radius: 5em;
+}
+
+a{
+    color: darkblue;
+    padding-left: 20px;
+    font-size: 20px;
+
+}
+a:hover{
+    text-decoration: underline;
+    color: green;
+}

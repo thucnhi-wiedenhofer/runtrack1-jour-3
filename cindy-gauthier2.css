@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(to top left, #ff66cc -20%, #660066 100%);
+}
+
+
+
+.images_home
+{
+    float: right;
+}
+
+.images_home
+{
+    border: 2px outset;
+    border-color: #ff66cc;
+    border-radius: 50px;
+    box-shadow: #660066;
+    padding: 20px;
+}
+
+#presentation
+{
+    margin-left: 400px;
+}
+
+h2 
+{
+    margin-left: 150px;
+}
+
+#ui
+{
+    text-align: center;
+}
+
+#Pikachu
+{
+    float: left;
+    width: 20%;
+
+}
+
+#Riven
+{
+    width: 30%;
+    margin-left: 100px;
+    height: 20%;
+}
+
+em
+{
+    color: #ff0000;
+}
+
+#Photos > img
+{
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 5em;
+}
+

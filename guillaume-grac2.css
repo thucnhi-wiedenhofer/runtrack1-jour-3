@@ -1,0 +1,38 @@
+body {
+  font-family: arial;
+  text-align: center;
+  background-image: url("images/Fondggif.gif");
+}
+.about-me {
+  font-family:verdana ;
+  box-shadow: 6px 6px 6px;
+  border-radius: 50px;
+  border: black 5px solid;
+  background-color: white;
+  margin-left: 300px;
+  font-size: 20px;
+  text-align: center;
+}
+footer {
+  font-size: 70%;
+  color: white;
+}
+#titre {
+  font-size: 50px;
+  text-shadow: 1px 1px;
+  color: white;
+}
+#me-gg {
+box-shadow: 6px 6px 6px;
+margin-left: 70px;
+float: left;
+border : solid 5px black;
+border-radius: 50px;
+}
+.amcolor {
+  color : black;
+}
+.text-center {
+margin-right: 250px;
+text-align: center;
+}

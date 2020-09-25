@@ -1,0 +1,39 @@
+#block_principal{
+     margin-left: 200px;
+     display:flex;
+
+}
+
+body{
+    background: linear-gradient(to bottom right, #006699 0%, #9966ff 80%);
+}
+
+#banderole{
+    margin-left: 200px;
+    margin-right: 550px;
+    text-align: justify;
+    border: 2px solid;
+    border-radius: 20em;
+    box-shadow: 20px -16px 80px teal;
+}
+
+h1{
+    margin-left: 210px;
+    text-shadow: 1px 2px;
+}
+
+h2{
+    color: grey;
+}
+
+    
+#photo{
+    height: 10%;
+    width: 10%;
+
+}
+
+#invisible{
+    height:10%;
+    width:10%;
+}
